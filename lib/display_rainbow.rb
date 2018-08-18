@@ -1,4 +1,4 @@
-def display_rainbow(myarray)
+def display_rainbow(myarray) # Write your #display_rainbow method here
   array1 = myarray
   comparray = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
   if(array1[0] == comparray[0])
@@ -22,4 +22,4 @@ def display_rainbow(myarray)
   if(array1[6] == comparray[6])
     print ", V: violet"
   end
-end# Write your #display_rainbow method here
+end
